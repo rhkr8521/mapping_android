@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-이 프로젝트는 SpringBoot 와 React, Mysql를 활용한 지도 메모 작성 프로젝트입니다.
+이 프로젝트는 SpringBoot 와 React, Android Application을 활용한 지도 메모 작성 프로젝트입니다.
 
 해당 프로젝트는 git과 github으로 버전관리 되고 있으며, github을 통해 오픈소스로 공개되었습니다.
 
